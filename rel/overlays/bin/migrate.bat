@@ -1,0 +1,1 @@
+call "%~dp0\banned_book_report" eval BannedBookReport.Release.migrate
